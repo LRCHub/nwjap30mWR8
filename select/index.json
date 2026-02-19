@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アングスト（不安）",
+  "base_artist": "Rammstein",
+  "createdAt": "2026-02-19T11:32:58.232006Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Angst",
+      "artist": "Rammstein",
+      "has_synced": false,
+      "path": "select/pl_01_Angst_Rammstein.txt"
+    }
+  ]
+}
